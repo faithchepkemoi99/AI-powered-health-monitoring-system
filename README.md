@@ -12,3 +12,5 @@ To run locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+LINK: https://faithchepkemoi99-ai-powered-health-monitoring-system-app-jmicep.streamlit.app/
